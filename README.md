@@ -35,7 +35,7 @@ Before:<br>
 
 <img src="./images/before.png"><br>
 
-After:
+After:<br>
 <img src="./images/after.png">
 
 
