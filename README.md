@@ -31,11 +31,11 @@ Full data
 ## Data Visualization
  sure your data looks nice and normally distributed.<br>
 
-Before:<br>
+#### Before:
 
 <img src="./images/before.png"><br>
 
-After:<br>
+### After:
 <img src="./images/after.png">
 
 
